@@ -5,6 +5,7 @@
 - [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
 - [Go 语言-极客学院wiki](http://wiki.jikexueyuan.com/list/go/)
 - [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+- [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/)
 
 ## 常用开源项目
 ### [beego](http://beego.me)
@@ -19,4 +20,5 @@ Caddy is the HTTP/2 web server with automatic HTTPS.
 ### [nsq](http://nsq.io/)
 A realtime distributed messaging platform
 
-
+### [wechat](https://github.com/silenceper/wechat)
+使用Golang开发的微信SDK，简单、易用。
