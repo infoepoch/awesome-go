@@ -1,7 +1,11 @@
 # Golang 
 
 ## 基本官方学习路线
-    Go 官方文档 [Getting Started](https://golang.org/doc/install) -> [A Tour of Go](https://tour.golang.org/) -> [How to write Go code](https://golang.org/doc/code.html) -> [Effective Go](https://golang.org/doc/effective_go.html)
+Go 官方文档 
+- [Getting Started](https://golang.org/doc/install) 
+- [A Tour of Go](https://tour.golang.org/) 
+- [How to write Go code](https://golang.org/doc/code.html) 
+- [Effective Go](https://golang.org/doc/effective_go.html)
     
 ## 基础教程
 - [Awesome Go](https://awesome-go.com/)
